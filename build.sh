@@ -1,1 +1,1 @@
-docker build -t acdserver .
+docker build -t owncloud .

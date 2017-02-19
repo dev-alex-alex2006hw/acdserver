@@ -1,4 +1,5 @@
 FROM debian:jessie
+MAINTAINER alex davis
 
 # persistent / runtime deps
 ENV PHPIZE_DEPS \
